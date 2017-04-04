@@ -1,2 +1,2 @@
 # hello-world
-Learning GitHub and a place to store ideas
+Learning GitHub and a place to collaborate and keep track of my own changes
